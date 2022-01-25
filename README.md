@@ -1,0 +1,2 @@
+# LungSegmentation
+Using mini-Unet
